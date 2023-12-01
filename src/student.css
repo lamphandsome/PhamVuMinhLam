@@ -1,12 +1,12 @@
 .item-container {
-    background-color: rgb(90, 85, 76);
+    background-color: rgb(55, 166, 197);
     margin: 22px;
-    border: 2px solid #ccc;
+    /* border: 2px solid #ccc;
     padding: 10px; 
-    width: 400px;
-    height: 520px;
+    width: 300px;
+    height: 500px;
     text-align: center; 
-    margin-bottom: 20px;
+    margin-bottom: 20px; */
     border-radius: 8px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
@@ -18,12 +18,4 @@
   }
   .item-container:hover {
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); 
-  }
-  body {
-    background-image: linear-gradient(
-      58.2deg,
-      rgba(40, 91, 212, 0.73) -3%,
-      rgba(171, 53, 163, 0.45) 49.3%,
-      rgba(255, 204, 112, 0.37) 97.7%
-    );
   }
