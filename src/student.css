@@ -1,0 +1,22 @@
+.item-container {
+    background-color: rgb(90, 85, 76);
+    margin: 22px;
+    border: 2px solid #ccc;
+    padding: 10px; 
+    width: 400px;
+    height: 520px;
+    text-align: center; 
+    margin-bottom: 20px;
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-profile-pic {
+    width: 360px;
+    height: 390px;
+    border-radius: 5%;
+  }
+  .item-container:hover {
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); 
+  }
+ 
